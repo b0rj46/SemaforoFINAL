@@ -7,7 +7,7 @@
 - David De Lamo -- API
 - Ángel Hernández -- API
 - Sergio Lis -- Dockerización, API
-- Tobías Rodríguez -- Aplicación móvil, Aplicación DJANGO
+- Tobías Gabriel Fernández -- Aplicación móvil, Aplicación DJANGO
 - Aarón Sanmartín -- Dockerización
 - Alejandro Roldán -- Dockerización
 - Borja Macián -- Aplicación DJANGO
